@@ -1,0 +1,58 @@
+Python :
+-------------
+c,java,python
+Ai - technologies -
+
+2.csc,
+smart things :
+-------------------
+mech - smart cars
+house - civil 
+elec
+
+(IOT) 
+-----------
+iNTERNET
+-------------------------------------------
+WHY PYTHON :
+---------------------------------------
+
+
+
+C LANGUAGE ;
+----------------------
+
+#include <stdio.h>
+#include<conio.h>
+int main()
+{
+ printf("hello world");
+retrn o;
+}
+
+java :
+------------
+class Demo
+{
+ public static void main(String[]args)
+{
+System.out.println("hello world");
+}
+}
+
+Python
+-------------
+print("hello world")
+----------------------------------------------------
+python programming language :
+--------------------------------
+note :
+-----------
+Guido van Rossum developed Python and originally made it available on February 20, 1991
+
+---------------------
+write a programming to add 2 numbers and print
+* python is dynamically typed programming language
+* java,c are statically typed 
+* datatype is already exist
+* python interpreter
