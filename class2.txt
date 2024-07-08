@@ -1,0 +1,60 @@
+Class2 :
+-------------
+#include <stdio.h>
+#include<conio.h>
+int main()
+{
+ printf("hello world");
+retrn o;
+}
+
+java :
+------------
+class Demo
+{
+ public static void main(String[]args)
+{
+System.out.println("hello world");
+}
+}
+
+Python
+-------------
+print("hello world")
+
+--------------------------------------------
+Types of Programming :
+-----------------------------------------
+1.Object oriented language - JAVA
+2.Procedural oriented  - c
+3.scripting language - perl,js,shell script
+----------------------------------------
+Python as scripting language ;
+---------------------------------------
+print("hello pyton")
+
+Python as Procedural language :
+---------------------------
+def fun():
+ print("hello pyton")
+fun()
+
+Python as Object - Oriented LANGUAGE
+------------*---------------------------------------------
+class Demo:
+ def fun(self):
+  print("welcome to python")
+d=Demo()
+d.fun()
+
+Note : IDLE stands for Integrated Development and Learning Environment.
+-----------
+1.
+2.
+3.
+
+Comments in Python :
+------------------------
+
+Single line  #
+multiline comment ''' ''' or """ """
