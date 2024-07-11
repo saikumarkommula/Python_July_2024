@@ -1,0 +1,45 @@
+class3
+--------
+Dynamically 
+
+java 
+int s=10;
+---------
+ int byte short float double boolean string long
+wrapper classes
+ a=10
+
+DataTypes In Python :
+------------------------------------
+  BASIC DATATYPES
+-----------------------
+int
+float
+str
+bool
+complex
+
+Advanced Datatypes :
+-------------------
+List
+tuple
+set
+dict
+------------------------------------------------------------------
+** memory management
+
+  * DataType is a mechanism which is used to convert real world data such as Strings,integers,charectres,images etc.. into binary format 
+ * It is used to manage the memory efficiently.
+-------------------------------------------------------------------------------------------
+a = 10
+print (a)
+print (type(a))
+
+a = "LearnKod"
+print (a)
+print (type(a))
+
+-------------------------------------
+
+
+

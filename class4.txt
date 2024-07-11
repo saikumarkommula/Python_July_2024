@@ -1,0 +1,229 @@
+class4 ;
+-----------
+Int datatype :
+---------------------
+a=10
+print(a)
+print(type(a))
+
+a=20.35
+print(a)
+print(type(a))
+
+a=34565768657
+print(a)
+print(type(a))
+
+a=2065757.35656767
+print(a)
+print(type(a))
+
+----------------------------
+String datatype :
+----------------------
+STRING(str Datatype)
+-----------------------------
+a='S'
+print(a)
+print(type(a))
+
+a="A"
+print(a)
+print(type(a))
+
+a="SAI"
+print(a)
+print(type(a))
+
+a='SAI kUMAR'
+print(a)
+print(type(a))
+
+a='''LEARNKod'''
+print(a)
+print(type(a))
+
+a="""LEARNKod"""
+print(a)
+print(type(a))
+
+---------------------------------------------------
+bool DATATYPE : (true /false)
+----------------------------- 
+a=True
+print(a)
+print(type(a))
+
+a=False
+print(a)
+print(type(a))
+
+a=true  #value error
+print(a)
+print(type(a)) 
+
+------------------------------------------------
+Complex DataType :
+---------------------------------
+real  imaginary numbers
+10+5j
+10.4+5.6j
+18+7.8j 
+------------
+#COMPLEX DATATYPE
+
+a=5+10j
+print(a)
+print(type(a))
+
+a=5+10.6j
+print(a)
+print(type(a))
+
+a=5.5+10.6j
+print(a)
+print(type(a))
+
+
+a=56.9j+7
+print(a)
+print(type(a))
+
+#COMPLEX DATATYPE
+
+a=5+10j
+print(a)
+print(type(a))
+
+a=5+10.6j
+print(a)
+print(type(a))
+
+a=5.5+10.6j
+print(a)
+print(type(a))
+
+
+a=56.9j+7j
+print(a)
+print(type(a))
+
+
+--------------------------------
+#COMPLEX DATATYPE
+
+a=5+10j
+print(a)
+print(type(a))
+
+a=5+10.6j
+print(a)
+print(type(a))
+
+a=5.5+10.6j
+print(a)
+print(type(a))
+
+
+a=56.9j+7
+print(a)
+print(type(a))
+
+#COMPLEX DATATYPE
+
+a=5+10j
+print(a)
+print(type(a))
+
+a=5+10.6j
+print(a)
+print(type(a))
+
+a=5.5+10.6j
+print(a)
+print(type(a))
+
+
+a=56.9j+7j
+print(a)
+print(type(a))
+
+
+--------------------
+
+How take input from the user :
+--------------------------------------------
+Scenner class - java
+input() -python
+----------------------
+a=input("Enter a number")
+
+print("enter new number")
+b=input()
+
+-----------------------
+#WPP to find the sum of 2 numbers by taking user input 
+a=input("Enter 1st number")
+b=input("Enter 2nd number")
+c=a+b
+print(c)
+---------------------
+#WPP to find the sum of 2 numbers by taking user input 
+a=int(input("enter 1 st number"))
+b=int(input("enter 2 nd number"))
+c=(a+b)/2
+print(c)
+--------------------------------------------------------
+"sailaja" -> integer
+67.5 -> int
+
+Type Casting InPython : Converting one datatype into another datatype
+-------------------------------------
+ => here we have 2 types types
+ => 1.implicit type casting => python interpreter 
+ => 2.explicit type casting => Programmer => inbuilt methods => int(),float(),str(),bool(),complex()
+ --------------------------------------------
+
+int
+float
+complex
+bool
+str
+----------------------
+a=10
+b=20.5
+c=a+int(b)
+print(c)
+print(type(c))
+print(type(a))
+print(type(b))
+
+
+
+-------------------
+#float -int
+a=10.5
+b=int(a)
+print(b)
+print(type(b))
+
+#complex -int
+#s=10+3j
+#t=int(s)
+#print(t)
+#print(type(t)) # type error
+
+#bool -int
+k=True
+l=int(k)
+print(l)
+print(type(l))
+m=False
+n=int(m)
+print(n)
+print(type(n))
+
+
+
+
+
